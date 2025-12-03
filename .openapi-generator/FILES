@@ -1,0 +1,12 @@
+.gitignore
+.openapi-generator-ignore
+git_push.sh
+project.clj
+src/kegg_api/api/default.clj
+src/kegg_api/core.clj
+src/kegg_api/specs/_info_database_get_database_parameter.clj
+src/kegg_api/specs/_list_database_or_database_entries_get_database_or_database_entries_parameter.clj
+src/kegg_api/specs/kegg_brite_option.clj
+src/kegg_api/specs/kegg_database.clj
+src/kegg_api/specs/kegg_listable_database.clj
+src/kegg_api/specs/kegg_searchable_database.clj
